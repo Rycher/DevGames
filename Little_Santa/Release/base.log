@@ -1,0 +1,2 @@
+﻿LINK : fatal error C1047: O arquivo de objeto ou de biblioteca '..\..\libUnicornio\lib\win\x86\libUnicornio.lib' foi criado com um compilador mais antigo do que os demais objetos; recompile objetos e bibliotecas antigas
+LINK : fatal error LNK1257: geração de código falhou

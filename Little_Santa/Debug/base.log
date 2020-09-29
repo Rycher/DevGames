@@ -1,0 +1,113 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: O diretório intermediário (Debug\) contém arquivos compartilhados de outro projeto (base.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+cl : linha de comando warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  Personagem2.cpp
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Personagem2.h(25,30): warning C4244: 'return': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Personagem2.cpp(21,12): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Personagem2.cpp(22,12): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Personagem2.cpp(87,21): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Personagem2.cpp(87,18): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Personagem2.cpp(125,19): warning C4305: '+=': truncamento de 'double' para 'float'
+  Personagem.cpp
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Personagem.h(21,26): warning C4244: 'return': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Personagem.h(26,31): warning C4244: 'return': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Personagem.cpp(23,12): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Personagem.cpp(24,12): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Personagem.cpp(96,22): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Personagem.cpp(96,19): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Personagem.cpp(141,18): warning C4305: '+=': truncamento de 'double' para 'float'
+  Objeto.cpp
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(53,53): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(54,29): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(59,31): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(60,14): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(65,53): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(66,44): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(72,53): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(73,29): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(46,6): warning C4101: 'sorteio': variável local não referenciada
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(88,25): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(103,22): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(106,16): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(109,22): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(112,51): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(118,45): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(119,12): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(127,22): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(130,22): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(133,22): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(135,51): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(141,51): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(142,27): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(153,21): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(153,18): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Objeto.cpp(158,6): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+  main.cpp
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Personagem.h(21,26): warning C4244: 'return': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Personagem.h(26,31): warning C4244: 'return': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Personagem2.h(25,30): warning C4244: 'return': conversão de 'float' para 'int', possível perda de dados
+  Jogo.cpp
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Personagem.h(21,26): warning C4244: 'return': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Personagem.h(26,31): warning C4244: 'return': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Personagem2.h(25,30): warning C4244: 'return': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Jogo.cpp(30,45): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Jogo.cpp(36,50): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Jogo.cpp(42,48): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Jogo.cpp(48,44): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Jogo.cpp(54,42): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Jogo.cpp(60,53): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Jogo.cpp(66,52): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Jogo.cpp(72,54): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Jogo.cpp(114,34): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Jogo.cpp(116,32): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Jogo.cpp(117,34): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Jogo.cpp(238,35): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Jogo.cpp(238,24): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Jogo.cpp(239,36): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Jogo.cpp(239,25): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Jogo.cpp(315,37): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Jogo.cpp(319,37): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Jogo.cpp(501,35): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Jogo.cpp(501,24): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Jogo.cpp(502,36): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Jogo.cpp(502,25): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Jogo.cpp(560,34): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Jogo.cpp(562,32): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\Jogo.cpp(563,34): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+  Gerando Código...
+Jogo.obj : warning LNK4075: ignorando '/EDITANDCONTINUE' devido a especificação '/SAFESEH'
+libUnicornio_d.lib(Audio.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(Audio.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(GerenciadorDeMusica.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(GerenciadorDeMusica.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(MixadorDeAudios.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(MixadorDeAudios.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(Musica.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(Musica.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(Som.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(Som.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(uniTestarColisao.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(uniTestarColisao.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(uniTestarColisaoSprite.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(uniTestarColisaoSprite.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(PainelDeDebug.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(PainelDeDebug.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(GerenciadorDeEventos.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(GerenciadorDeEventos.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(EventosInputTexto.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(EventosInputTexto.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(EventosJoysticks.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(EventosJoysticks.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(EventosMouse.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(EventosMouse.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(EventosTeclado.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(EventosTeclado.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(EventosToques.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(EventosToques.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(Joystick.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(Joystick.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(Global.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(Global.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(BotaoSprite.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(BotaoSprite.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(jsoncpp.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(jsoncpp.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(Quad.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(Quad.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(GerenciadorDeRecursos.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(GerenciadorDeRecursos.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(Cor.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(Cor.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(Fading.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(Fading.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(Fonte.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(Fonte.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(GerenciadorDeGraficos.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(GerenciadorDeGraficos.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(Janela.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(Janela.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(Sprite.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(Sprite.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(SpriteSheet.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(SpriteSheet.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(Texto.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(Texto.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(Textura.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(Textura.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(TexturaBase.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(TexturaBase.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(GerenciadorDeStrings.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(GerenciadorDeStrings.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(GrupoDeStrings.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(GrupoDeStrings.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(GerenciadorDeTempo.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(GerenciadorDeTempo.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(uniFuncoesPrincipais.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(uniFuncoesPrincipais.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+libUnicornio_d.lib(Vetor2D.obj) : warning LNK4099: PDB 'libUnicornio-Windows.pdb' não foi encontrado 'libUnicornio_d.lib(Vetor2D.obj)' ou no 'C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\libUnicornio-Windows.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+  base.vcxproj -> C:\LibUni\libUnicornio-1.1.2\projetos\Little_Santa\bin\LittleSanta.exe

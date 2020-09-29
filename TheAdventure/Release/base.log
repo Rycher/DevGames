@@ -1,0 +1,22 @@
+﻿  Jogo.cpp
+C:\LibUni\libUnicornio-1.1.2\projetos\TheAdventure\Jogo.cpp(81,32): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\LibUni\libUnicornio-1.1.2\projetos\TheAdventure\Jogo.cpp(86,29): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\LibUni\libUnicornio-1.1.2\projetos\TheAdventure\Jogo.cpp(193,43): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\TheAdventure\Jogo.cpp(196,85): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\TheAdventure\Jogo.cpp(198,30): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\TheAdventure\Jogo.cpp(698,55): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\TheAdventure\Jogo.cpp(699,34): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\TheAdventure\Jogo.cpp(744,43): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\TheAdventure\Jogo.cpp(747,85): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\TheAdventure\Jogo.cpp(749,30): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+  main.cpp
+  Minerio.cpp
+C:\LibUni\libUnicornio-1.1.2\projetos\TheAdventure\Minerio.cpp(21,12): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\TheAdventure\Minerio.cpp(22,12): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\TheAdventure\Minerio.cpp(35,21): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\TheAdventure\Minerio.cpp(35,18): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\TheAdventure\Minerio.cpp(55,13): warning C4244: 'return': conversão de 'float' para 'int', possível perda de dados
+C:\LibUni\libUnicornio-1.1.2\projetos\TheAdventure\Minerio.cpp(60,13): warning C4244: 'return': conversão de 'float' para 'int', possível perda de dados
+  Player.cpp
+LINK : fatal error C1047: O arquivo de objeto ou de biblioteca '..\..\libUnicornio\lib\win\x86\libUnicornio.lib' foi criado com um compilador mais antigo do que os demais objetos; recompile objetos e bibliotecas antigas
+LINK : fatal error LNK1257: geração de código falhou
